@@ -17,9 +17,7 @@ client.on('ready', () => {
 
 
 
-
-
-const adminprefix = "";
+  const adminprefix = "";
 const devs = ['313325648527622147'];
 client.on('message', message => {
   var argresult = message.content.split(` `).slice(1).join(' ');
@@ -34,4 +32,16 @@ if (message.content.startsWith(adminprefix + 'ah')) {
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 client.login(process.env.BOT_TOKEN);
+
