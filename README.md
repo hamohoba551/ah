@@ -1,1 +1,2 @@
-#Bot using heroku, 24/7!
+# brtbot
+Bot using heroku, 24/7!
